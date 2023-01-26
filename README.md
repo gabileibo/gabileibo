@@ -2,8 +2,6 @@
 
 Working on all things Cloud, DevOps and Security 
 
-Currently Software Engineer Lead - DevOps & Security @ Donut
-
 [Reach out on Telegram!](https://t.me/gabileibo)
 
 ### What else I'm working on 

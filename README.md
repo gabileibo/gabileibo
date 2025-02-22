@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabi 👋
 
-Working on all things Cloud, DevOps and Security 
+Working on all things Cloud, DevOps, AI and Security 
 
 [Reach out on Telegram!](https://t.me/gabileibo)
 
